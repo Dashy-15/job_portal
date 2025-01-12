@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+    width: 204px;
+    height: 136px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    overflow: hidden;
+    top: 166px;
+    left: 293px;
+    padding: 12px 12px 12px 20px;
+}

@@ -1,0 +1,91 @@
+.recently-activity {
+    background-color: #1b204a;
+    border-radius: 10px;
+    width: 427px;
+    height: 258px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+.header {
+    background-color: #1b204a;
+    padding: 10px 24px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.header-title {
+    color: #ffffff;
+    font-family: var(--title-medium-font-family);
+    font-size: var(--title-medium-font-size);
+    font-weight: var(--title-medium-font-weight);
+    margin: 0;
+}
+
+.content {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-grow: 1;
+}
+
+.timestamp {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: "Roboto-Medium", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.activity-title {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.activity-description {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: var(--subtitle-small-font-family);
+    font-size: var(--subtitle-small-font-size);
+    font-weight: var(--subtitle-small-font-weight);
+    margin: 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    margin-top: auto;
+}
+
+.activity-summary {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    margin: 0;
+}
+
+.see-all-button {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: rgb(230, 75, 19);
+    border-radius: 6px;
+    padding: 10px 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.see-all-button:hover {
+    opacity: 0.9;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
