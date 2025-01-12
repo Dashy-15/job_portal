@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ed976e1.css",
+    "main.js": "/static/js/main.ddf6340f.js",
+    "static/media/Mask Group.svg": "/static/media/Mask Group.41ad52efde325b48df1ed6a3904cb7cc.svg",
+    "static/media/Vasitum Logo (1) 1.svg": "/static/media/Vasitum Logo (1) 1.f48d2c434ef73cae5bdcb44582220a6e.svg",
+    "static/media/ic_settings.svg": "/static/media/ic_settings.fd916fa23ad956ff4e89da2f0ced72f8.svg",
+    "static/media/bi_chat-left-dots-fill.svg": "/static/media/bi_chat-left-dots-fill.0b358c73404325fbab82c7e0fe9536bd.svg",
+    "static/media/ic_employee.svg": "/static/media/ic_employee.5a3576cd4084ad57cca0a6ad28008070.svg",
+    "static/media/Frame 56.svg": "/static/media/Frame 56.7fb01f955da1364a2e165e3a492e0e8d.svg",
+    "static/media/frame-57.svg": "/static/media/frame-57.09d1885253d775c5372eb685218d5e0e.svg",
+    "static/media/ic_department.svg": "/static/media/ic_department.50b9258f84c5ce1f7ec3676ba95505b9.svg",
+    "static/media/Frame 57.svg": "/static/media/Frame 57.d324a40fc83a2893fa42ac4d53a06aa1.svg",
+    "static/media/Frame 9.svg": "/static/media/Frame 9.b584c405d5e35de7f164430e458d9c0d.svg",
+    "static/media/ic_support.svg": "/static/media/ic_support.44dc0006cd608ce4bfc2d82433db0694.svg",
+    "static/media/ic_recruitment.svg": "/static/media/ic_recruitment.16cf51797799f46482730af31675b6d2.svg",
+    "static/media/ic_round-notifications.svg": "/static/media/ic_round-notifications.add05e2202b1c6701d45698b5b0b0177.svg",
+    "index.html": "/index.html",
+    "static/media/vector-3.svg": "/static/media/vector-3.2316de3211dc170365482cd3dfa16bce.svg",
+    "static/media/ic_calendar.svg": "/static/media/ic_calendar.580ad071c84b68755a008dd801316356.svg",
+    "static/media/vector-2.svg": "/static/media/vector-2.7d4ffdbe76c093a2bf5bd99e5a27a2d9.svg",
+    "static/media/Frame 10.svg": "/static/media/Frame 10.d6486829933dc4768a0b840f38acb009.svg",
+    "static/media/frame-20.svg": "/static/media/frame-20.87f52a83a33ec931ba6a4095bda20b53.svg",
+    "static/media/frame-10.svg": "/static/media/frame-10.dc3334a13a9a751f72e3bf4c8fc11e4e.svg",
+    "static/media/ic_dashboard.svg": "/static/media/ic_dashboard.2d6d5183f5f1a1f8a33008f54cf68f3d.svg",
+    "main.9ed976e1.css.map": "/static/css/main.9ed976e1.css.map",
+    "main.ddf6340f.js.map": "/static/js/main.ddf6340f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed976e1.css",
+    "static/js/main.ddf6340f.js"
+  ]
+}
