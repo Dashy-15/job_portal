@@ -4,7 +4,6 @@ import { ReactComponent as Avatar } from "../../Assets/header/Mask Group.svg";
 import { ReactComponent as DropdownIcon } from "../../Assets/header/Frame 10.svg";
 import { ReactComponent as NotificationIcon } from "../../Assets/header/ic_round-notifications.svg";
 import { ReactComponent as ResponseIcon } from "../../Assets/header/bi_chat-left-dots-fill.svg";
-import { ReactComponent as ExpandIcon } from "../../Assets/header/ic_burgermenu.svg";
 
 
 const LayerHeader = () => {
